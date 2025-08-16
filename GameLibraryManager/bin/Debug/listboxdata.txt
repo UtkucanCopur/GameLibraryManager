@@ -1,0 +1,12 @@
+Cyberpunk 2077,10-12-2020,Completed,273.00,Action|RPG|Open World
+The Witcher 3: Wild Hunt,19-05-2015,Completed,207.00,Action|RPG|Open World
+Alan Wake,16-02-2012,Not Finished,2.40,Action
+Assassin's Creed® Origins,27-10-2017,Completed,60.60,Action|RPG|Open World
+Batman: Arkham Asylum Game of the Year Edition,26-03-2010,Completed,12.20,Action
+Batman™: Arkham Origins,25-10-2013,Completed,9.50,Action
+Deus Ex: Human Revolution - Director's Cut,25-10-2013,Completed,25.80,Action|RPG
+Dying Light,26-01-2015,Completed,87.20,Action|RPG|Open World
+Euro Truck Simulator 2,18-10-2012,Not Finished,2.70,Simulation|Open World
+FlatOut 2,01-08-2006,Completed,15.90,Sport
+Half-Life,19-11-1998,Completed,11.70,Action
+Kingdom Come: Deliverance,13-02-2018,Completed,77.50,Action|RPG|Open World
